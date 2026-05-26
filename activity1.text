@@ -1,0 +1,41 @@
+Git is a distributed version control system used to track changes in
+source code and collaborate with other developers.
+Common Git Commands
+git init - Initialize a new Git repository git clone  - Copy a
+repository from a remote server git status - Show the status of files
+git add . - Stage all changes git commit -m “message” - Save changes
+with a commit message git pull - Download and merge changes from a
+remote repository git push - Upload local commits to a remote repository
+git branch - List branches git checkout  - Switch branches git merge  -
+Merge a branch into the current branch
+Benefits of Git
+-   Tracks file changes
+-   Supports team collaboration
+-   Maintains version history
+-   Allows branching and merging
+-   Helps recover previous versions of files
+Git is widely used in software development and works well with platforms
+such as GitHub.
+Git is a Version Control System (VCS) used to track changes in files and source code. It helps developers manage projects, collaborate with teams, and keep a history of their work.
+7q.what is the use of git
+Uses of Git
+Track Changes
+Records every modification made to files.
+Allows you to see who changed what and when.
+Backup Your Work
+Keeps a history of all versions of your project.
+You can restore previous versions if something goes wrong.
+Team Collaboration
+Multiple developers can work on the same project simultaneously.
+Changes can be merged together easily.
+Branching
+Create separate branches to develop new features without affecting the main project.
+Example:
+git branch new-feature
+Undo Mistakes
+Revert to earlier versions if bugs or errors are introduced.
+Works with GitHub
+Git manages the code locally.
+GitHub stores Git repositories online for sharing and collaboration.
+Common Git Commands
+git init  
